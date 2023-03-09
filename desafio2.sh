@@ -7,7 +7,7 @@ apt-get install apache2 -y
 apt-get install unzip -y
 
 
-echo "Baixando e copia https://github.com/OliverM1981 os arquivos da aplicação..."
+echo "Baixando e copiando de https://github.com/OliverM1981 os arquivos da aplicação..."
 
 cd /tmp
 wget https://github.com/OliverM1981/menu-sidebar.git
